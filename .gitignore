@@ -96,3 +96,8 @@ docs/_build/
 
 # PyBuilder
 target/
+
+
+#Data folder
+data/Raw/
+data/Derived/
