@@ -1,5 +1,5 @@
 ## Deletion Estimation Code
-[Manipulating Twitter through Deletions](https://ojs.aaai.org/index.php/ICWSM/article/view/19355/19127)
+## [Manipulating Twitter through Deletions](https://ojs.aaai.org/index.php/ICWSM/article/view/19355/19127)
 
 Authors: Christopher Torres-Lugo*, Manita Pote*, Alexander C. Nwala, and Filippo Menczer
 
