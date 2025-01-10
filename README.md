@@ -31,7 +31,7 @@ where $n^i(t_1) > n^i(t_2)$.
 
 ### Result
 
-![Underestimation of the deletion count.](URL_or_path_to_image)
+![Underestimation of the deletion count.](./heatmap_interpolation_log_3_cdf.png)
 
 
 
